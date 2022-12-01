@@ -148,7 +148,10 @@ button:hover {
     transform: translateX(150px);
 }
 
-
+.add-btn img {
+    width: 35px;
+    margin-bottom: 5px
+}
 
 
 
