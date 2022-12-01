@@ -97,7 +97,9 @@ button {
     cursor: pointer;
 }
 
-
+button img {
+    width: 30px;
+}
 
 
 
