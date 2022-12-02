@@ -214,6 +214,10 @@ button:hover {
         width: 77%;
     }
 
+    .color-box {
+        transform: translateX(75px);
+    }
+
 
 
 }
