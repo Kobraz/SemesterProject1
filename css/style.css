@@ -54,8 +54,9 @@ nav ul li a:hover {
 
 .pageTitle {
     font-family: 'Patrick Hand', cursive;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
+    color: #7b1e7a;
 }
 
 .row {
