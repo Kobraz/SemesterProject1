@@ -210,6 +210,11 @@ button:hover {
         margin-bottom: 50px;
     }
 
+    .col-2 .controller {
+        width: 77%;
+    }
+
+
 
 }
 
