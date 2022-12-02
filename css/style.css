@@ -205,6 +205,11 @@ button:hover {
         margin: 50px 0;
     }
 
+    .col-2 {
+        flex-basis: 100%;
+        margin-bottom: 50px;
+    }
+
 
 }
 
