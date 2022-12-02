@@ -240,6 +240,62 @@ button:hover {
     font-size: 20px;
 }
 
+.foot-3 {
+    flex-basis: 40%;
+    position: relative;
+    margin-left: 50px;
+}
+
+.foot-3 h2 {
+    font-size:  54px;
+}
+
+.foot-3 h3 {
+    font-size:  30px;
+    color: #707070;
+    font-weight: 100;
+    margin: 20px 0 10px;
+}
+
+.foot-3 p {
+    font-size:  16px;
+    color: #b7b7b7;
+    font-weight: 100;
+}
+
+.foot-3 h4 {
+    margin: 30px 0;
+    font-size: 20px;
+}
+
+.foot-4 {
+    flex-basis: 40%;
+    position: relative;
+    margin-left: 50px;
+}
+
+.foot-4 h2 {
+    font-size:  54px;
+}
+
+.foot-4 h3 {
+    font-size:  30px;
+    color: #707070;
+    font-weight: 100;
+    margin: 20px 0 10px;
+}
+
+.foot-4 p {
+    font-size:  16px;
+    color: #b7b7b7;
+    font-weight: 100;
+}
+
+.foot-4 h4 {
+    margin: 30px 0;
+    font-size: 20px;
+}
+
 
 
 
