@@ -176,6 +176,9 @@ button:hover {
 
 
 
+
+
+
 .footer {
     display: flex;
     justify-content: space-between;
@@ -295,6 +298,11 @@ button:hover {
 .foot-4 h4 {
     margin: 30px 0;
     font-size: 20px;
+}
+
+.timeIcon {
+    width: 30px;
+    vertical-align: top;
 }
 
 
