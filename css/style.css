@@ -196,7 +196,7 @@ button:hover {
 }
 
 .foot-1 img {
-    align-self: top;
+    margin-top: 10px;
     width: 25px;
 }
 
