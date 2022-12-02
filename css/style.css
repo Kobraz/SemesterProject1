@@ -200,6 +200,11 @@ button:hover {
         transition: 0.5s;
     }
 
+    .row {
+        flex-direction: column-reverse;
+        margin: 50px 0;
+    }
+
 
 }
 
