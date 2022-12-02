@@ -189,6 +189,7 @@ button:hover {
 
 
 .foot-1 {
+    width: 50px;
     flex-basis: 40%;
     position: relative;
     margin-left: 50px;
@@ -196,6 +197,7 @@ button:hover {
 
 .foot-1 img {
     align-self: top;
+    width: 50px;
 }
 
 .foot-2 {
