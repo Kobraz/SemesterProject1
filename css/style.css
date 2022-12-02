@@ -183,7 +183,7 @@ button:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 50%;
+    width: 300px;
     margin: 100px 0;
 }
 
@@ -201,6 +201,7 @@ button:hover {
 }
 
 .foot-2 {
+    width: 100px;
     flex-basis: 40%;
     position: relative;
     margin-left: 50px;
@@ -220,6 +221,7 @@ button:hover {
 }
 
 .foot-3 {
+    width: 50px;
     flex-basis: 40%;
     position: relative;
     margin-left: 50px;
@@ -239,6 +241,7 @@ button:hover {
 }
 
 .foot-4 {
+    width: 100px;
     flex-basis: 40%;
     position: relative;
     margin-left: 50px;
