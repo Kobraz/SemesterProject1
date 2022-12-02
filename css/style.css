@@ -174,6 +174,18 @@ button:hover {
     cursor: pointer;
 }
 
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+}
+
+
+
+
 .social-links {
     text-align: center;
 }
