@@ -302,7 +302,7 @@ button:hover {
 
 .timeIcon {
     width: 30px;
-    vertical-align: top;
+    align-self: top;
 }
 
 
