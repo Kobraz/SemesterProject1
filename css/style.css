@@ -17,7 +17,7 @@
     width: 100%;
     display: flex;
     align-items: center;
-    background: linear-gradient(#707070, #000);
+    background: linear-gradient(#606060, #000);
 }
 
 .logo {
@@ -238,7 +238,9 @@ button:hover {
         font-size: 15px;
     }
 
-
+    .pageTitle {
+        font-size: 30px;
+    }
 
 }
 
