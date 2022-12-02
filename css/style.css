@@ -52,6 +52,10 @@ nav ul li a:hover {
     color: #b33f62;
 }
 
+.pageTitle {
+    font-family: 'Patrick Hand', cursive;
+}
+
 .row {
     display: flex;
     justify-content: space-between;
