@@ -195,7 +195,12 @@ button:hover {
         display: block;
     }
 
-    
+    #menuList {
+        overflow: hidden;
+        transition: 0.5s;
+    }
+
+
 }
 
 
