@@ -261,7 +261,7 @@ button:hover {
 footer {
     display: flex;
     gap: 4em;
-    background: linear-gradient(#F63EB8, #b82ead)
+    background: linear-gradient(#ffffff, #F63EB8)
   }
   
 footer ul li {
