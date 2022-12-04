@@ -170,7 +170,9 @@ button:hover {
 }
 
 .boxText {
-    text-align: center;
+    text-align: right;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 50px;
     color: #fff;
     cursor: pointer;
     transform: rotate(90deg);
