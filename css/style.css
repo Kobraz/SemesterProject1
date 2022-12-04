@@ -119,7 +119,7 @@ button:hover img {
 button:hover {
     width: 160px;
     display: flex;
-    align items: center;
+    align-items: center;
     justify-content: space-between;
 
 }
@@ -262,7 +262,7 @@ footer {
     align: center;
     display: flex;
     gap: 4em;
-    background: radial-gradient(#ffffff, #F63EB8, #ffffff);
+    background: radial-gradient(#ffffff, #ffffff, #F63EB8);
   }
   
 footer ul li {
