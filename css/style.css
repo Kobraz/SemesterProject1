@@ -261,6 +261,7 @@ button:hover {
 footer {
     display: flex;
     gap: 4em;
+    background: linear-gradient(#F63EB8, #b82ead)
   }
   
 footer ul li {
@@ -275,8 +276,13 @@ footer ul li {
     text-align: justify;
     }
 
+.location-and-phone {
+    display: flex;
+    flex-direction: column;
+    }
 
 
-    
+
+
 
 
