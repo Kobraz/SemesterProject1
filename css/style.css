@@ -274,6 +274,10 @@ footer ul li {
         padding: 0;
     }
 
+footer h2 {
+    font-family: 'Amaranth', sans-serif;
+}
+
 #opening-hours {
     display: grid;
     grid-template-columns: 2fr 1fr;
