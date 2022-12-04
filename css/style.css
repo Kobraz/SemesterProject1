@@ -128,7 +128,7 @@ button:hover {
     content: '';
     width: 10px;
     height: 50px;
-    background: linear-gradient(#F63EB8);
+    background-color: #F63EB8;
     position: absolute;
     left: -40px;
     top: 8px;
