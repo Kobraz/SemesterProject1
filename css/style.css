@@ -86,7 +86,7 @@ nav ul li a:hover {
 
 .col-1 p {
     font-size:  16px;
-    color: #b7b7b7;
+    color: #000;
     font-weight: 100;
 }
 
@@ -127,7 +127,7 @@ button:hover {
 .col-1::after {
     content: '';
     width: 10px;
-    height: 50px;
+    height: 55px;
     background-color: #F63EB8;
     position: absolute;
     left: -40px;
