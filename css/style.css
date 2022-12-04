@@ -265,11 +265,18 @@ footer {
   
 footer ul li {
         list-style: none;
-        display: inline-block;
         margin: 0;
         padding: 0;
     }
 
+#opening-hours {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    text-align: justify;
+    }
 
+
+
+    
 
 
