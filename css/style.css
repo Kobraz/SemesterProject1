@@ -262,7 +262,7 @@ footer {
     align: center;
     display: flex;
     gap: 4em;
-    background: linear-gradient(#ffffff, #F63EB8, #ffffff);
+    background: radial-gradient(#ffffff, #F63EB8, #ffffff);
   }
   
 footer ul li {
