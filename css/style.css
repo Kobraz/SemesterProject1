@@ -254,6 +254,10 @@ button:hover {
         font-size: 22px;
     }
 
+    footer {
+        flex-wrap: wrap;
+    }
+
 }
 
 
