@@ -143,6 +143,7 @@ button:hover {
 
 .col-2 .museum {
     width: 90%;
+    height: auto;
 }
 
 .color-box {
@@ -232,6 +233,7 @@ button:hover {
 
     .col-2 .museum {
         width: 77%;
+        height: auto;
     }
 
     .color-box {
