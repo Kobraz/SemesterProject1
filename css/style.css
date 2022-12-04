@@ -260,7 +260,7 @@ button:hover {
 
 footer {
     align-content: center;
-    margin: 10px
+    margin: 10px;
     display: flex;
     gap: 4em;
     background: linear-gradient(#ffffff, #F63EB8)
