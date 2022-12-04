@@ -263,7 +263,7 @@ footer {
     margin: 15px 10px 10px 10px;
     display: flex;
     gap: 4em;
-    background: linear-gradient(#ffffff, #F63EB8)
+    background: linear-gradient(#ffffff, #F63EB8);
   }
   
 footer ul li {
