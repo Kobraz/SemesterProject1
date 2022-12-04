@@ -240,8 +240,12 @@ button:hover {
     }
 
     .col-2 .museum {
-        width: 77%;
+        width: 40%;
         height: auto;
+    }
+
+    .boxText {
+        display: none;
     }
 
     .color-box {
