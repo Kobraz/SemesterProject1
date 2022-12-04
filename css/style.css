@@ -260,10 +260,9 @@ button:hover {
 
 footer {
     align: center;
- 
     display: flex;
     gap: 4em;
-    background: linear-gradient(#ffffff, #F63EB8);
+    background: linear-gradient(#ffffff, #F63EB8, #ffffff);
   }
   
 footer ul li {
