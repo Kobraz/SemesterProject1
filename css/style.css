@@ -169,13 +169,6 @@ button:hover {
     transform: translateX(150px);
 }
 
-.boxText {
-    text-align: center;
-    font-family: 'Amaranth', sans-serif;
-    font-size: 100px;
-    color: #fff;
-    transform: rotate(90deg);
-}
 
 .social-links img {
     height: 15px;
