@@ -139,12 +139,12 @@ button:hover {
     position: relative;
     display: flex;
     align-items: center;
+    overflow: hidden;
 }
 
 .col-2 .museum {
     width: 70%;
     height: auto;
-    overflow: hidden;
 }
 
 .col-2 img {
