@@ -259,7 +259,7 @@ button:hover {
 
 
 footer {
-    align-content: center;
+    align: center;
  
     display: flex;
     gap: 4em;
