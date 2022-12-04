@@ -1,0 +1,61 @@
+div.container {
+    align-items: center;
+    width: 100%;
+}
+
+div.content {
+    border: 1px solid #000;
+    float: center;
+    margin: 0px;
+}
+
+div#iconTime {
+    background-color: #ffffff;
+    height: 150px;
+    width: 30px;
+}
+
+div#openingHours {
+    background-color: #ffffff;
+    height: 35px;
+    width: 200px;
+}
+
+div#openingHours h3 {
+    font-size:  30px;
+    color: #707070;
+    font-weight: 100;
+    margin: 0px;
+}
+
+div#days {
+    background-color: #ffffff;
+    height: 150px;
+    width: 75px;
+    margin: 40px 0 0 0;
+    align: left;
+    left: 30px;
+}
+
+div#times {
+    background-color: #ffffff;
+    height: 150px;
+    width: 100px;
+    margin: 40px 0 0 0;
+}
+
+div#fifth {
+    background-color: #ffffff;
+    height: 150px;
+    width: 150px;
+}
+
+div sixth {
+    background-color: #ffffff;
+    height: 150px;
+    width: 150px;
+}
+
+
+
+
