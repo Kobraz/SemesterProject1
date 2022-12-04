@@ -169,15 +169,11 @@ button:hover {
     transform: translateX(150px);
 }
 
-.add-btn img {
-    width: 35px;
-    margin-bottom: 5px
-}
-
-.add-btn {
+.boxText {
     text-align: center;
     color: #fff;
     cursor: pointer;
+    transform: rotate(90deg);
 }
 
 .social-links img {
