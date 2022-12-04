@@ -179,79 +179,7 @@ button:hover {
 
 
 
-.footer {
-    display:flex
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    margin: 100px 0;
-}
 
-.foot-1 {
-    width: 50px;
-    flex-basis: 40%;
-    position: relative;
-    margin-left: 50px;
-}
-
-.foot-1 img {
-    width: 25px;
-}
-
-.foot-2 {
-    width: 100px;
-    flex-basis: 40%;
-    position: relative;
-    margin-left: 50px;
-}
-
-.foot-2 h3 {
-    font-size:  30px;
-    color: #707070;
-    font-weight: 100;
-    margin: 20px 0 10px;
-}
-
-.foot-2 p {
-    font-size:  16px;
-    color: #b7b7b7;
-    font-weight: 100;
-}
-
-.foot-3 {
-    width: 50px;
-    flex-basis: 40%;
-    position: relative;
-    margin-left: 50px;
-}
-
-.foot-3 img {
-    width: 25px;
-}
-.foot-4 {
-    width: 100px;
-    flex-basis: 40%;
-    position: relative;
-    margin-left: 50px;
-}
-
-.foot-4 h3 {
-    font-size:  30px;
-    color: #707070;
-    font-weight: 100;
-    margin: 20px 0 10px;
-}
-
-.foot-4 p {
-    font-size:  16px;
-    color: #b7b7b7;
-    font-weight: 100;
-}
-
-
-.timeIcon {
-    align-self: top;
-}
 
 
 
@@ -329,10 +257,17 @@ button:hover {
 }
 
 
+
+footer {
+    display: flex;
+    gap: 4em;
+  }
+  
 footer ul li {
         list-style: none;
         display: inline-block;
-
+        margin: 0;
+        padding: 0;
     }
 
 
