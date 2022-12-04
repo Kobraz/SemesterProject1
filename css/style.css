@@ -256,6 +256,11 @@ button:hover {
 
     .col-1 h3 {
         font-size: 25px;
+        color: #404040;
+    }
+
+    .col-1 p {
+        color: #202020;
     }
 
     .pageTitle {
