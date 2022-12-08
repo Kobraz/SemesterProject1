@@ -83,18 +83,27 @@
     </footer>
 
     <script>
-        var menuList = document.getElementById("menuList");
-        menuList.style.maxHeight = "0px";
-        function togglemenu() {
-            if(menuList.style.maxHeight == "0px")
+        const menuList = document.getElementById('menuList');
+
+        const button = document.getElementById('menu-icon');
+
+        const openClass = 'menu-list--open';
+
+        function toggle() {
+            if (menuList.classList.contains(openClass)) 
                 {
-                    menuList.style.maxHeight = "130px";
+                    button.style.display = "inline-block"; 
+                    menuList.classList.remove(openClass)
                 }
-            else
+            else 
                 {
-                    menuList.style.maxHeight = "0px";
+                    button.style.display = "none"; 
+                    menuList.classList.add(openClass)
                 }
         }
+
+        menu-icon.addEventListener('click', ()=> toggle())
+        menuList.addEventListener('click', ()=> toggle())
     </script>
 
     <style>
