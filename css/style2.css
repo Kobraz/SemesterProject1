@@ -179,7 +179,7 @@ nav ul li a:hover {
     .menu-list {
         max-height: 0;
         transition: .3s ease-in-out max-height;
-        background-color: red;
+        background-color: grey;
         height: 130px;
       }
       
