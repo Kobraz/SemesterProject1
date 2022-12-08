@@ -70,7 +70,7 @@ nav ul li a:hover {
 .col-1 {
     flex-basis: 40%;
     position: relative;
-    margin-left: 50px;
+    margin: 0 20px 0 50px;
 }
 
 .col-1 h2 {
