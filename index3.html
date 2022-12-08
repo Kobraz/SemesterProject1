@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style3.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Amaranth&display=swap" rel="stylesheet">
+    <title>Community Science Museum  |  Home</title>
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <img src="images/logo.png" alt="logo"><div class="pageTitle">Community Science Museum</div>
+            <nav>
+                <ul id="menuList">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="explore.html">Explore</a></li>
+                    <li><a href="exhibition.html">Exhibition</a></li>
+                    <li><a href="specialevents.html">Special Events</a></li>
+                    <li><a href="getinvolved.html">Get Involved</a></li>
+                </ul>
+            </nav>
+            <img src="images/menu.png" class="menu-icon" alt="menu icon" onclick="togglemenu()">
+        </div>
+
+        <div class="row">
+            <div class="col-1">
+                <h2></h2>
+                <h3>Explore together</h3>
+                <p>Come join us at the Community Science Museum where we’re committed to making science accessible to all.</p>
+                <p>Over the course of human history, science has developed from our early understanding of fire, wind, water, and earth to exploring everything from galaxies far away to the very building blocks of life itself.</p>
+                <p>The aim of our museum is to create a space where everyone can experience the wonders of our discoveries and perhaps even ignite a lifelong passion to continue the exploration of the world around us.</p>
+
+            </div>
+            <div class="col-2">
+                <img src="images/museum.jpg" alt="museum" class="museum">
+                <div class="color-box"></div>
+            </div>
+        </div>
+        <footer>
+            <section class="footerSection">
+                <h2><img src="images/time-pink.png" class="timeIcon icon" alt="time icon"> Opening hours</h2>
+                <ul id="opening-hours">
+                  <li>&emsp;&emsp;Monday</li>
+                  <li>Closed</li>
+                  <li>&emsp;&emsp;Tuesday</li>
+                  <li>10:00 - 16:00</li>
+                  <li>&emsp;&emsp;Wednesday</li>
+                  <li>10:00 - 16:00</li>
+                  <li>&emsp;&emsp;Thursday</li>
+                  <li>10:00 - 16:00</li>
+                  <li>&emsp;&emsp;Friday</li>
+                  <li>10:00 - 19:00</li>
+                  <li>&emsp;&emsp;Saturday</li>
+                  <li>09:00 - 16:00</li>
+                  <li>&emsp;&emsp;Sunday</li>
+                  <li>09:00 - 13:00</li>
+                </ul>
+              </section>
+              <div class="location-and-phone">
+                <section class="footerSection">
+                  <h2><img src="images/location-pink.png" class="locationIcon icon" alt="location icon">&hairsp; Location</h2>
+                  <ul>
+                    <li>&emsp;&emsp;Vitengate 12</li>
+                    <li>&emsp;&emsp;7400 Trondheim</li>
+                  </ul>
+                </section>
+                <section>
+                  <h2><img src="images/phone-pink.png" class="phoneIcon icon" alt="phone icon"> Contact</h2>
+                  <p>&emsp;&emsp;+75 70605040</p><br>
+                </section>
+                <section>
+                    <h2><img src="images/ticket-pink.png" class="phoneIcon icon" alt="phone icon">&thinsp; Tickets</h2>
+                    <p>&emsp;&emsp;Free entrance</p>
+                  </section>
+              </div>
+
+
+    </footer>
+
+    <script>
+        var menuList = document.getElementById("menuList");
+        menuList.style.maxHeight = "0px";
+        function togglemenu() {
+            if(menuList.style.maxHeight == "0px")
+                {
+                    menuList.style.maxHeight = "130px";
+                }
+            else
+                {
+                    menuList.style.maxHeight = "0px";
+                }
+        }
+    </script>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+    </style>
+
+</body>
+</html>
+
