@@ -229,6 +229,7 @@ nav ul li a:hover {
 
     footer {
         flex-wrap: wrap;
+        justify-content: center;
     }
 
 }
@@ -240,7 +241,7 @@ nav ul li a:hover {
 
 
 footer {
-    align: center;
+    justify-content: center;
     display: flex;
     gap: 4em;
   }
