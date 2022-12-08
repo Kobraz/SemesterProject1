@@ -178,7 +178,8 @@ nav ul li a:hover {
 
     #menuList {
         overflow: hidden;
-        transition: 0.5s;
+        transition: 0.3s ease-in-out max-height;
+        background-color: #F63EB8;
     }
 
     .row {
