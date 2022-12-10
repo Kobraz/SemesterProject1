@@ -143,6 +143,13 @@ nav ul li a:hover {
     transform: translateX(150px);
 }
 
+hr {
+    font-family: 'Amaranth', sans-serif;
+    font-size: 21px;
+}
+
+
+
 
 
 
