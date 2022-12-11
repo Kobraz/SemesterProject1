@@ -325,6 +325,6 @@ footer ul li {
 }
 
 .map {
-    border: 1px solid #000;
+    border: 0.5px solid #000;
     align: center;
 }
