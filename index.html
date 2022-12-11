@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style2.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,700&display=swap" rel="stylesheet">
@@ -38,49 +38,77 @@
             </div>
             <div class="col-2">
                 <img src="images/museum.jpg" alt="museum" class="museum">
-                <div class="color-box"></div>
             </div>
         </div>
         <footer>
-            <section class="footerSection">
-                <h2><img src="images/time-pink.png" class="timeIcon icon" alt="time icon"> Opening hours</h2>
-                <ul id="opening-hours">
-                  <li>Monday</li>
-                  <li>Closed</li>
-                  <li>Tuesday</li>
-                  <li>10:00 - 16:00</li>
-                  <li>Wednesday</li>
-                  <li>10:00 - 16:00</li>
-                  <li>Thursday</li>
-                  <li>10:00 - 16:00</li>
-                  <li>Friday</li>
-                  <li>10:00 - 19:00</li>
-                  <li>Saturday</li>
-                  <li>09:00 - 16:00</li>
-                  <li>Sunday</li>
-                  <li>09:00 - 13:00</li>
-                </ul>
-              </section>
-              <div class="location-and-phone">
-                <section class="footerSection">
-                  <h2><img src="images/location-pink.png" class="locationIcon icon" alt="location icon"> Location</h2>
-                  <ul>
-                    <li>Vitengate 12</li>
-                    <li>7400 Trondheim</li>
-                  </ul>
-                </section>
-                <section>
-                  <h2><img src="images/phone-pink.png" class="phoneIcon icon" alt="phone icon"> Contact</h2>
-                  <p>+75 70605040</p><br>
-                </section>
-                <section>
-                    <h2><img src="images/ticket-pink.png" class="ticetIcon icon" alt="ticket icon"> Tickets</h2>
-                    <p>Free entrance</p>
-                  </section>
-              </div>
-
-
-    </footer>
+            <div class="grid">
+                <div class="grid-item">
+                    <div class="card">
+                        <img class="card-img" src="images/openinghours_1.jpg" alt="image opening hours">
+                        <div class="card-content">
+                            <h1 class="card-header">Opening hours</h1>
+                            <p class="card-text">
+                                <ul class="opening-hours">
+                                <li>Monday</li>
+                                <li>Tuesday</li>
+                                <li>Wednesday</li>
+                                <li>Thursday</li>
+                                <li>Friday</li>
+                                <li>Saturday</li>
+                                <li>Sunday</li>
+                                <li>Closed</li>
+                                <li>10:00 - 16:00</li>
+                                <li>10:00 - 16:00</li>
+                                <li>10:00 - 16:00</li>
+                                <li>10:00 - 19:00</li>
+                                <li>09:00 - 16:00</li>
+                                <li>09:00 - 13:00</li>
+                                </ul>
+                            </p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <div class="card">
+                        <img class="card-img" src="images/location_1.jpg" alt="image location">
+                        <div class="card-content">
+                            <h1 class="card-header">Location</h1>
+                            <p class="card-text">
+                                Vitengate 12<br>
+                                7400 Trondheim
+                            </p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <div class="card">
+                        <img class="card-img" src="images/contact_1.jpg" alt="image contact">
+                        <div class="card-content">
+                            <h1 class="card-header">Contact</h1>
+                            <p class="card-text">
+                                +75 70605040<br>
+                                mail@csm.com
+                            </p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <div class="card">
+                        <img class="card-img" src="images/ticket_1.jpg" alt="image ticket">
+                        <div class="card-content">
+                            <h1 class="card-header">Tickets</h1>
+                            <p class="card-text">
+                                Free entrance
+                            </p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>       
+        </footer>
 
     <script>
         var menuList = document.getElementById("menuList");
@@ -97,9 +125,7 @@
         }
     </script>
 
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
-    </style>
+
 
 </body>
 </html>
