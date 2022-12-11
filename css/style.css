@@ -325,3 +325,7 @@ footer ul li {
     column-count: 2;
 }
 
+.map {
+    border: 1px solid #000;
+    justify-content: center;
+}
