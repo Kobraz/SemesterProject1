@@ -327,5 +327,5 @@ footer ul li {
 
 .map {
     border: 1px solid #000;
-    justify-self: center;
+    align: center;
 }
