@@ -134,7 +134,7 @@ nav ul li a:hover {
 
 .col-2 img {
     width: 100%;
-    display: block;
+    display: flex;
     border-right:#F63EB8 10px solid;
   }
 
