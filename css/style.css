@@ -110,7 +110,7 @@ nav ul li a:hover {
 .col-1::after {
     content: '';
     width: 10px;
-    height: 55px;
+    height: 50px;
     background-color: #F63EB8;
     position: absolute;
     left: -40px;
@@ -127,13 +127,13 @@ nav ul li a:hover {
 
 .col-2 .museum {
     width: 70%;
+    vertical-align: top;
     height: auto;
 }
 
 .col-2 img {
     width: 100%;
     display: block;
-    vertical-align: top;
     border-right:#F63EB8 10px solid;
   }
 
