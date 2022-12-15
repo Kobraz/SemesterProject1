@@ -69,7 +69,6 @@ nav ul li a:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    vertical-align: text-top;
     margin: 100px 0;
 }
 
@@ -134,6 +133,7 @@ nav ul li a:hover {
 .col-2 img {
     width: 100%;
     display: block;
+    vertical-align: top;
     border-right:#F63EB8 10px solid;
   }
 
