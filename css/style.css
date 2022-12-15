@@ -127,14 +127,14 @@ nav ul li a:hover {
 }
 
 .col-2 .photo {
-    width: 100%;
+    width: 90%;
     vertical-align: top;
     height: auto;
 }
 
 .col-2 img {
     width: 100%;
-    display: flex;
+    display: block;
     border-right:#F63EB8 10px solid;
   }
 
