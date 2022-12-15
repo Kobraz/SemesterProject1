@@ -125,7 +125,7 @@ nav ul li a:hover {
     overflow: hidden;
 }
 
-.col-2 .museum {
+.col-2 .photo {
     width: 90%;
     vertical-align: top;
     height: auto;
@@ -197,7 +197,7 @@ h1 {
         margin-bottom: 50px;
     }
 
-    .col-2 .museum {
+    .col-2 .photo {
         width: 100%;
         align: top;
         height: auto;
