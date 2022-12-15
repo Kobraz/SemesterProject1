@@ -198,6 +198,7 @@ h1 {
 
     .col-2 .museum {
         width: 100%;
+        align: top;
         height: auto;
     }
 
