@@ -64,6 +64,7 @@ nav ul li a:hover {
     font-weight: bold;
     color: #F63EB8;
     margin-left: 10px;
+    text-decoration: none;
 }
 
 .row {
