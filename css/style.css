@@ -71,7 +71,7 @@ nav ul li a:hover {
     font-family: 'Amaranth', sans-serif;
     font-size: 40px;
     font-weight: bold;
-    color: #F63EB8;
+    color: var(--basecolor);
     margin-left: 10px;
 }
 
@@ -126,7 +126,7 @@ nav ul li a:hover {
     content: '';
     width: 10px;
     height: 40px;
-    background-color: #F63EB8;
+    background-color: var(--basecolor);
     position: absolute;
     left: -40px;
     top: 8px;
@@ -149,7 +149,7 @@ nav ul li a:hover {
 .col-2 img {
     width: 100%;
     display: block;
-    border-right:#F63EB8 10px solid;
+    border-right:var(--basecolor) 10px solid;
   }
 
 
