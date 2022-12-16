@@ -331,20 +331,5 @@ footer ul li {
     box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.1);
 }
 
-body {
-    display: flex;
-    flex-direction: row-reverse;
-}
-
-.menuList {
-    flex-grow: 1;
-}
-
-.navbar {
-    flex-shrink: 0;
-    padding-left: 3em;
-}
-
-
 
 
