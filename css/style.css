@@ -116,7 +116,7 @@ nav ul li a:hover {
 .col-1::after {
     content: '';
     width: 10px;
-    height: 45px;
+    height: 35px;
     background-color: #F63EB8;
     position: absolute;
     left: -40px;
