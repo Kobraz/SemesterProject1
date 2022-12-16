@@ -311,7 +311,7 @@ footer ul li {
 }
 
 .card-text {
-    font-size: 12px;
+    font-size: 16px;
     letter-spacing: 0.1rem;
     line-height: 1.7;
     color: #3d3d3d;
@@ -331,9 +331,5 @@ footer ul li {
     box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.1);
 }
 
-.grid p {
-    font-size: 10;
-    font-weight: 200;
-    color: #101010;
-}
+
 
