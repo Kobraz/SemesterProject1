@@ -4,6 +4,10 @@
     font-family: sans-serif;
 }
 
+:root {
+    --base-color: '#F63EB8'
+}
+
 
 @import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400&display=swap');
@@ -60,7 +64,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #F63EB8;
+    color: #002288;
 }
 
 .pageTitle {
