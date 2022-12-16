@@ -330,3 +330,10 @@ footer ul li {
     border: 0.5px solid #3d3d3d;
     box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.1);
 }
+
+.grid p {
+    font-size: 12;
+    font-weight: 300;
+    color: #101010;
+}
+
