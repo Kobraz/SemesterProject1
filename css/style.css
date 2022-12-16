@@ -224,6 +224,12 @@ hr {
         height: auto;
     }
 
+    .col-2 img {
+        width: 100%;
+        display: block;
+        border-right:var(--basecolor) 10px solid;
+      }
+
     .boxText {
         display: none;
     }
