@@ -230,7 +230,7 @@ hr {
     .col-2 img {
         width: 100%;
         display: block;
-        border-right: var(--basepink) 10px solid;
+        border-right: var(--basepink) 5px solid;
       }
 
     .boxText {
