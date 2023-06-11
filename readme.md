@@ -1,4 +1,4 @@
-# Troll Mountains - Project Exam 1
+# Community Science Museum - Semester Project 1
 
 ![image](https://roarfh-portifolio.netlify.app/images/s1Project.png)
 
